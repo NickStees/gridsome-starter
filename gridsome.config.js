@@ -36,5 +36,13 @@ module.exports = {
         publicPath: `/admin`,
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        index: ["README"],
+        path: "chart-data/**/*.csv",
+        typeName: "ChartData",
+      },
+    },
   ],
 };
