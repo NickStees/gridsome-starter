@@ -8,6 +8,8 @@
 - Markdwon Transformers
 - Netlify CMS Added [Setup Instructions](https://gridsome.org/docs/guide-netlify-cms#5-netlify-cms-authentication-with-github)
 - Fontawesome and customizations to Remark Transformer
+- Axios and Fetching JSON from an API
+- paginating over fetch JSON data
 
 ### 1. Install Gridsome CLI tool if you don't have
 
