@@ -6,7 +6,7 @@
 - Scss already added
 - A global Stylesheet, variables and mixin `/src/assets/`
 - Markdwon Transformers
-- Netlify CMS Added
+- Netlify CMS Added [Setup Instructions](https://gridsome.org/docs/guide-netlify-cms#5-netlify-cms-authentication-with-github)
 - Fontawesome and customizations to Remark Transformer
 
 ### 1. Install Gridsome CLI tool if you don't have
