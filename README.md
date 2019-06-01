@@ -11,9 +11,14 @@
 - Axios and Fetching JSON from an API
 - paginating over fetch JSON data
 
-### 1. Install Gridsome CLI tool if you don't have
+### 1. Install Gridsome CLI tool if you don't have it
 
 `npm install --global @gridsome/cli`
+
+### 2. Start Development
+
+- `npm i` to install node modules
+- `gridsome develop` to start development
 
 ### Deploy to Netlify
 
