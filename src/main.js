@@ -16,4 +16,7 @@ export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component("Layout", DefaultLayout);
   Vue.component("font-awesome-icon", FontAwesomeIcon);
+  head.script.push({
+    src: "https://polyfill.io/v3/polyfill.min.js",
+  });
 }
